@@ -1,3 +1,4 @@
+
 /* Start Toggle icons */
 document.querySelector(".fa-cog").onclick = () => {
     // toogle calss fa splin for rotation on selfr

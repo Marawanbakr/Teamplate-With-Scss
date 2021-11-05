@@ -13,3 +13,7 @@ $max-Small: "(max-width:767px)";
 $minMedium: "(min-width:992px)";
 $minLarge: "(min-width:1200px)";
 /*  End Variabulse  */
+:export {
+  white: $min-color;
+  // etc...
+}
